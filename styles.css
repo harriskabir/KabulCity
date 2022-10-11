@@ -172,7 +172,7 @@ li.copyright {
     .team-members {
         flex-direction: column;
         align-items: center;
-        background-image: url("../Business%20Flexbox/images/mobile.jpeg");
+        background-image: url("images/mobile.jpeg");
         background-position: center;
     }
 
