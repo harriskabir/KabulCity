@@ -170,6 +170,10 @@ li.copyright {
         align-items: center;
         margin-bottom: 2rem;
     }
+    
+    .projects-container p {
+        padding: 0 .5rem;
+    }
 
     .project {
         display: flex;
