@@ -139,6 +139,10 @@ img.zal {
     height: 14.625rem;
 }
 
+.member img {
+    border-radius: 4px;
+}
+
 footer {
     display: flex;
     text-align: center;
