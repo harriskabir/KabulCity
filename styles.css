@@ -40,7 +40,7 @@ header nav ul li a {
 }
 
 .mission-container {
-    background-image: url("../Business%20Flexbox/images/construction.jpeg");
+    background-image: url("images/construction.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
@@ -108,7 +108,7 @@ header nav ul li a {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
-    background-image: url("../Business%20Flexbox/images/back.jpeg");
+    background-image: url("images/back.jpeg");
     padding: 4rem 0;
     color: white;
 }
