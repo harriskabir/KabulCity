@@ -155,7 +155,7 @@ li.copyright {
 @media only screen and (max-width: 760px) {
 
     html, body {
-        width: fit-content;
+        width: 100%;
     }
 
     header h1 {
@@ -167,6 +167,11 @@ li.copyright {
         justify-content: center;
         align-items: center;
         margin-bottom: 2rem;
+    }
+    
+    .project {
+        display: flex;
+        flex-direction: column;
     }
 
     .team-members {
